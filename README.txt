@@ -5,3 +5,5 @@ Updating README from another location
 Updating README again from another location
 Sharing remotely is fun and easy
 Feature1
+Feature2
+Feature2 changes
